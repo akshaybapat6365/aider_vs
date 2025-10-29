@@ -494,7 +494,7 @@ urllib3==2.3.0
     # via
     #   mixpanel
     #   requests
-uv==0.6.6
+uv==0.9.6
     # via -r requirements/requirements-dev.in
 virtualenv==20.29.3
     # via pre-commit
