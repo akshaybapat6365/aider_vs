@@ -220,7 +220,7 @@ pillow==11.1.0
     # via
     #   -c requirements/common-constraints.txt
     #   -r requirements/requirements.in
-pip==25.0.1
+pip==26.0
     # via
     #   -c requirements/common-constraints.txt
     #   -r requirements/requirements.in
